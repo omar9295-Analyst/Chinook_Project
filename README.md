@@ -1,4 +1,5 @@
 Chinook Music Brand - Data Analysis Project
+
 📌 Project Overview
 A comprehensive analysis of the Chinook Music Brand's performance, customer behavior, and strategic growth opportunities. The music database contains detailed information about artists, albums, tracks, playlists, and customers. This project aims to understand music trends, identify popular artists and top-selling albums, and analyze customer purchasing behavior to drive actionable business decisions.
 
