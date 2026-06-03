@@ -61,7 +61,7 @@ Dimension Tables: Invoice DIM, Track DIM, Employee DIM, and Customer DIM.
 
 4- Artist Collaboration: Leverage the massive popularity and productivity of top artists like Iron Maiden and U2 through exclusive content,
 
-**Full Dashboard **
+**Full Dashboard**
 <img width="1280" height="714" alt="Chinook Overview" src="https://github.com/user-attachments/assets/e96e928a-02a7-415f-9a0e-d9f2a8ac6018" />
 <img width="1280" height="718" alt="Chinook Customers" src="https://github.com/user-attachments/assets/48b588a0-aefe-4180-9cb2-223cb38ee73e" />
 <img width="1280" height="714" alt="Chinook Music" src="https://github.com/user-attachments/assets/fd38be20-e219-44aa-ae71-49c74d5017f7" />
