@@ -4,6 +4,9 @@
 
 A comprehensive analysis of the Chinook Music Brand's performance, customer behavior, and strategic growth opportunities. The music database contains detailed information about artists, albums, tracks, playlists, and customers. This project aims to understand music trends, identify popular artists and top-selling albums, and analyze customer purchasing behavior to drive actionable business decisions.
 
+<img width="1280" height="714" alt="Chinook Overview" src="https://github.com/user-attachments/assets/e96e928a-02a7-415f-9a0e-d9f2a8ac6018" />
+
+
 **🛠️ Tools & Technologies**
 
 1- Database Management: MySQL.
@@ -57,3 +60,11 @@ Dimension Tables: Invoice DIM, Track DIM, Employee DIM, and Customer DIM.
 3- Unsold Track Strategy: Develop clear strategies to address the 40.41% unsold tracks through promotional bundles, curated playlists, or targeted advertising.
 
 4- Artist Collaboration: Leverage the massive popularity and productivity of top artists like Iron Maiden and U2 through exclusive content,
+
+**Full Dashboard **
+<img width="1280" height="714" alt="Chinook Overview" src="https://github.com/user-attachments/assets/e96e928a-02a7-415f-9a0e-d9f2a8ac6018" />
+<img width="1280" height="718" alt="Chinook Customers" src="https://github.com/user-attachments/assets/48b588a0-aefe-4180-9cb2-223cb38ee73e" />
+<img width="1280" height="714" alt="Chinook Music" src="https://github.com/user-attachments/assets/fd38be20-e219-44aa-ae71-49c74d5017f7" />
+<img width="1280" height="718" alt="Chinook Artist" src="https://github.com/user-attachments/assets/adca67bc-185d-473f-9c0c-1b690cd4b299" />
+
+
