@@ -4,8 +4,6 @@
 
 A comprehensive analysis of the Chinook Music Brand's performance, customer behavior, and strategic growth opportunities. The music database contains detailed information about artists, albums, tracks, playlists, and customers. This project aims to understand music trends, identify popular artists and top-selling albums, and analyze customer purchasing behavior to drive actionable business decisions.
 
-<img width="1280" height="714" alt="Chinook Overview" src="https://github.com/user-attachments/assets/e96e928a-02a7-415f-9a0e-d9f2a8ac6018" />
-
 
 **🛠️ Tools & Technologies**
 
