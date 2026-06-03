@@ -21,6 +21,7 @@ Fact Table: Sales Fact.
 Dimension Tables: Invoice DIM, Track DIM, Employee DIM, and Customer DIM.
 
 **📊 Core KPIs**
+
 1- Total Sales: $2,351.
 
 2- Average Order Value (AOV): $5.71.
